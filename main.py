@@ -35,8 +35,8 @@ def query_text(inline_query):
 	        
 	        #print("Really all( \n" + str(inline_query.__dict__))
 	    except Exception as e:
-	       # print(e)
-	       # print(" All: \n" + str(inline_query))
+	        print(e)
+	        print(" All: \n" + str(inline_query))
 	bot.answer_inline_query(inline_query.id, [r])
         
 
