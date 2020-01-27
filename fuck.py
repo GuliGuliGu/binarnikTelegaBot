@@ -73,28 +73,3 @@ def repeat_all_messages(message): # Название функции не игр�
 
 #if __name__ == '__main__':
 bot.polling()
-
-
-
-
-
-
-input("Press enter to exit ;)")
-
-
-
-
-#
-
-
-
-
-
-
-
-#bot.polling ()
-
-
-
-
-
